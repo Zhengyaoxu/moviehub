@@ -4,7 +4,6 @@
   "private": true,
   "engines": {
     "node": "16.17.0"
-    
   },
   "scripts": {
     "serve": "vue-cli-service serve --port 8080",
@@ -14,6 +13,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "core-js": "^3.8.3",
+    "element-ui": "^2.15.10",
     "vue": "^2.6.14",
     "vue-axios": "^3.4.1",
     "vue-router": "^3.5.2"
